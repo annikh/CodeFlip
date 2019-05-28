@@ -1,0 +1,26 @@
+.accountBody {
+  padding: 50px !important;
+  background-color: #f9c35e;
+  min-height: 100vh;
+  min-width: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.rowAccount {
+  justify-content: center;
+  padding: 10px;
+}
+
+.insideBox {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #dfa841;
+}
+
+.player {
+  color: white;
+}
+
+.player:hover {
+  background-color: darken(inherit, 20%);
+}

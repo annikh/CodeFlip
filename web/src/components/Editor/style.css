@@ -1,0 +1,12 @@
+.runButton {
+  background-color: #4e9c4b !important;
+  border-color: #4e9c4b !important;
+  border-radius: 0%;
+  box-shadow: 1px 1px #154713;
+}
+
+.runButton:hover {
+  background-color: #277e24 !important;
+  border-color: #1a6917 !important;
+  color: rgb(197, 197, 197) !important;
+}
